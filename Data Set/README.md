@@ -1,1 +1,2 @@
-
+**Kaggle Credit Card Fraud Detection**  
+Sourced from Kaggle, this dataset contains anonymized credit card transactions with 30 features (`Time`, `Amount`, and `V1–V28` from PCA) and a binary `Class` label (0 for non-fraud, 1 for fraud). Highly imbalanced (~0.17% fraud cases), it’s used to train a Random Forest Classifier for fraud detection, achieving 73% recall and 96% precision, and powers a Streamlit UI for real-time predictions.
