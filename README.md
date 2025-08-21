@@ -75,7 +75,7 @@ Built with **Streamlit**, the UI provides:
    - Recommended for accurate results  
 
 ### Screenshot
-![UI Screenshot](UI.png)  
+![UI Screenshot](User_Interface/ui_screenshot.png)
 
 ---
 
